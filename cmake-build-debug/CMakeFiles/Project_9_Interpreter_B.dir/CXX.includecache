@@ -1,0 +1,68 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/armin/Desktop/Project 9 Interpreter B/Input.cpp
+stdio.h
+-
+stdlib.h
+-
+assert.h
+-
+Parse.h
+/cygdrive/c/Users/armin/Desktop/Project 9 Interpreter B/Parse.h
+
+/cygdrive/c/Users/armin/Desktop/Project 9 Interpreter B/Parse.h
+stdint.h
+-
+
+/cygdrive/c/Users/armin/Desktop/Project 9 Interpreter B/String.h
+stdlib.h
+-
+stdint.h
+-
+
+/cygdrive/c/Users/armin/Desktop/Project 9 Interpreter B/dataStructures.h
+iostream
+-
+cstdio
+-
+helpers.h
+/cygdrive/c/Users/armin/Desktop/Project 9 Interpreter B/helpers.h
+
+/cygdrive/c/Users/armin/Desktop/Project 9 Interpreter B/helpers.h
+iostream
+-
+cstdio
+-
+dataStructures.h
+/cygdrive/c/Users/armin/Desktop/Project 9 Interpreter B/dataStructures.h
+
+/cygdrive/c/Users/armin/Desktop/Project 9 Interpreter B/main.cpp
+iostream
+-
+cstdio
+-
+Parse.h
+/cygdrive/c/Users/armin/Desktop/Project 9 Interpreter B/Parse.h
+
+/cygdrive/c/Users/armin/Desktop/Project 9 Interpreter B/runBlip.cpp
+iostream
+-
+cstdio
+-
+map
+-
+Parse.h
+/cygdrive/c/Users/armin/Desktop/Project 9 Interpreter B/Parse.h
+String.h
+/cygdrive/c/Users/armin/Desktop/Project 9 Interpreter B/String.h
+helpers.h
+/cygdrive/c/Users/armin/Desktop/Project 9 Interpreter B/helpers.h
+dataStructures.h
+/cygdrive/c/Users/armin/Desktop/Project 9 Interpreter B/dataStructures.h
+
